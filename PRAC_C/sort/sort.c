@@ -121,19 +121,14 @@ int Partition(int* space, int low, int high){
 	left=low;
 	right=high;
 	while(left<right){
-		while(space[left]<=pivot_item){
-			left++;
-		}
-		while(space[right]>pivot_item){
-			right--;
-		}
-//		printf("left : %d\n", left);
-//		printf("right : %d\n", right);
+		while(space[left]<=pivot_item){left++;}
+		while(space[right]>pivot_item){right--;}
 		if(left<right){
 			swap(&space[left], &space[right]);
 		}
 	}
-	
+	space[low]=space[right];
+	space[right]=pivot_item;
 	return right;
 }
 /* Quick Sort End */
@@ -210,6 +205,7 @@ int main(int argc, char* argv[]){
 			case 5:
 				copyFunc(copySpace, oriSpace, count);
 				QuickSort(copySpace, 0, count-1);
+				outputFunc(copySpace, count);
 				break;
 			case 6:
 				flag=0;
