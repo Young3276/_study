@@ -37,7 +37,7 @@ int QueueSize(struct DynArrayQueue *Q){
 void ResizeQueue(struct DynArrayQueue *Q){
 	int i;
 	int size = Q->capacity;
-	Q->capacity=Q->capacity*2;
+	Q->capacity=Q->capacity*6;
 	Q->array=(int*)realloc(Q->array, Q->capacity);
 	if(!Q->array){
 		printf("Memory Error!\n");
