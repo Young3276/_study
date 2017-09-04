@@ -1,244 +1,3 @@
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-cd ~
-ls
-cd PRAC_C/
-ls
-sudo apt-get install git-core
-git
-git config --global user.name "Young3276"
-git config --global user.email "ba6020@naver.com"
-git config --global color.ui "auto"
-git config --list
-cd ..
-ls
-git init
-ls
-ls -al
-git add *
-git commit -m "test"
-git remote add origin https://github.com/Young3276/_study.git
-git push origin master
-ls
-cd PRAC_C/
-ls
-cd stack/
-ls
-vi arithmetic.c 
-ls -al
-rm .arithmetic.c.swp 
-ls
-vi arithmetic.c 
-vi palindrome.c 
-ls
-vi arithmetic.c 
-git add *
-git commit -m "170705_test"
-git origin master
-history
-git push origin master
-ls
-vi arithmetic.c 
-ls
-cd ..
-ls
-cd ..
-ls
-cd search.py 
-vi search.py 
-ls
-vi tool.sh 
-ls
-cd PRAC_C/
-ls
-cd list/
-ls
-vi list_singly.c 
-ls
-vi list_doubly.c 
-ls
-cd ..
-ls
-vi test.c
-gcc -o test test.c
-vi test.c
-gcc -o test test.c
-./test
-vi test.c
-gcc -o test test.c
-./test
-vi test.c
-ls
-vi test.c
-gcc -o test test.
-gcc -o test test.c
-vi test.c 
-gcc -o test test.c
-./test
-vi test.c 
-gcc -o test test.c
-vi test.c 
-./test
-vi test.c 
-gcc -o test test.c
-./test
-vi test.c 
-gcc -o test test.c
-./test
-vi test.c 
-gcc -o test test.c
-./test
-vi test.c 
-gcc -o test test.c
-./test
-vi test.c 
-gcc -o test test.c
-vi test.c 
-./test
-vi test.c 
-gcc -o test test.c
-./test
-vi test.c 
-gcc -o test test.c
-./test
-vi test.c 
-gcc -o test test.c
-./test
-vi test.c 
-gcc -o test test.c
-./test
-vi test.c 
-gcc -o test test.c
-vi test.c 
-gcc -o test test.c
-./test
-vi test.c 
-ls
-mkdir CodingDoJang
-ls
-mv test* CodingDoJang/
-ls
-cd CodingDoJang/
-ls
-mv test.c recursion.c
-ls
-rm test
-gcc -o recursion recursion.c 
-exit
-cd ~
-ls
-cd PRAC_C/
-ls
-cd stack/
-ls
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-vi stack_list.c 
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-gcc -o arithmetic arithmetic.c 
-./arithmetic A*B-\(C+D\)+E
-exit
-cd ~
-DynArrayQueue.c
-vi DynArrayQueue.c
-ls
-cd PRAC_C/
-ls
-cd queue/
-ls
-vi DynArrayQueue.c 
-exi
-exit
-cd ~
-ls
-cd PRAC_C/
-ls
-mkdir queue
-cd queue/
-ls
-vi DynArrayQueue.c
-gcc -o DynArrayQueue DynArrayQueue.c 
-vi DynArrayQueue.c
-exit
-cd ~
-ls
-cd PRAC_C/
-ls
-cd queue/
-ls
-vi DynArrayQueue.c 
-ls
-vi Queue_list.c
-ls
-rm dumpcode.h 
-cd ..
-ls
-cd  queue/
-ls
-vi SlidWindow.c
-ls
-rm SlidWindow*
-ls
-vi SlideWindow.c
-exit
-cd ~
-cd PRAC_C/
-ls
-queue/
-cd queue/
-gcc -o DynArrayQueue DynArrayQueue.c
-./DynArrayQueue 
-gcc -o DynArrayQueue DynArrayQueue.c
-./DynArrayQueue 
-gcc -o DynArrayQueue DynArrayQueue.c
-./DynArrayQueue 
-gcc -o DynArrayQueue DynArrayQueue.c
-./DynArrayQueue 
-gcc -o DynArrayQueue DynArrayQueue.c
-./DynArrayQueue 
-gcc -o DynArrayQueue DynArrayQueue.c
-./DynArrayQueue 
-gcc -o DynArrayQueue DynArrayQueue.c
-./DynArrayQueue 
 gcc -o DynArrayQueue DynArrayQueue.c
 ./DynArrayQueue 
 gcc -o DynArrayQueue DynArrayQueue.c
@@ -1997,4 +1756,245 @@ vi StarMonthTest.java
 javac StarMonthTest.java 
 java StarMonthTest
 vi StarMonthTest.java
+exit
+cd 
+cd PRAC_JAVA/
+ls
+cd Pratice/
+ls
+rm *.class
+ls
+cd ..
+ls
+cd ..
+ls
+ls -a
+ls -al
+git
+cd PRAC_JAVA/
+ls
+cd Pratice/
+ls
+cd HomeWork/
+ls
+rm *.class
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+git add ./*
+git add ./
+git status
+git add * 
+git commit -m "170901"
+git push origin master
+ls
+ls -al
+ls
+mkdir PYTHON
+ls
+mv search.py PYTHON/
+ls
+git commit -m "170901"
+git push origin master
+git pull origin master
+ls
+cd PYTHON/
+ls
+cd ..
+ls
+git commit -m "170901"
+git push origin master
+git add *
+git status
+ls
+cd PRAC_JAVA/
+ls
+cd Pratice/
+ls
+cd ..
+ls
+cd ..
+ls
+l
+ls -al
+git commit -m "170901.01"
+ls
+git push origin master
+ls
+cd PRAC_JAVA/
+ls
+cd MyTestJava/
+ls
+cd ..
+ls
+cd Pratice/
+ls
+vi SaleTest.java
+ls
+vi SaleTest.java 
+rm SaleTest.java 
+vi ForTest.java
+mv ForTest.java ForTest01.java
+vi ForTest01.java 
+javac ForTest01.java 
+java ForTest01
+vi ForTest01.java 
+javac ForTest01.java 
+vi ForTest01.java 
+javac ForTest01.java 
+java ForTest01
+vi ForTest01.java 
+javac ForTest01.java 
+java ForTest01
+vi ForTest01.java 
+javac ForTest01.java 
+java ForTest01
+vi ForTest01.java 
+javac ForTest01.java 
+java ForTest01
+vi ForTest01.java 
+javac ForTest01.java 
+java ForTest01
+vi ForTest01.java 
+vi ForTest02.java
+javac ForTest02.java 
+java ForTest02
+vi ForTest02.java
+javac ForTest02.java 
+vi ForTest03.java
+javac ForTest03.java 
+java ForTest03
+vi ForTest03.java
+javac ForTest03.
+javac ForTest03.java 
+java ForTest03
+vi ForTest03.java
+vi ForTest04.java
+javac ForTest04.java 
+vi ForTest04.java
+javac ForTest04.
+javac ForTest04.java 
+vi ForTest04.java
+javac ForTest04.java 
+java ForTest04
+clear
+java ForTest04
+vi ForTest04.java
+vi ForTest05.java
+javac ForTest05.java 
+java ForTest05
+vi ForTest05.java
+javac ForTest05.
+javac ForTest05.java 
+java ForTest05
+vi ForTest05.java
+vi ForTest06.java
+javac ForTest06.java 
+java ForTest06
+vi ForTest06.java
+java ForTest06
+vi ForTest06.java
+java ForTest06
+vi ForTest06.java
+ls
+vi FourPillars.java
+vi Divisor.java
+javac Divisor.java 
+vi Divisor.java
+javac Divisor.java 
+vi Divisor.java
+javac Divisor.java 
+java Divisor
+vi Divisor.java
+javac Divisor.
+javac Divisor.java 
+java Divisor
+vi Divisor.java
+javac Divisor.java 
+java Divisor
+clear
+java Divisor
+vi FourPillars.java 
+vi DecimalSelect.java
+javac DecimalSelect.java 
+vi DecimalSelect.java
+javac DecimalSelect.java 
+java DecimalSelect
+clear
+vi FourPillars.java 
+vi LottoTest.java
+javac LottoTest.java 
+vi LottoTest.java
+javac LottoTest.java 
+vi LottoTest.java
+javac LottoTest.java 
+java LottoTest
+vi LottoTest.java
+ls
+vi FourPillars.java 
+ls
+vi LottoTest.java 
+javac LottoTest.java 
+java LottoTest
+ls
+vi FourPillars.java 
+ls
+vi MemberTest.java
+javac MemberTest.java 
+java MemberTest.
+java MemberTest
+ls
+vi RandomTest.java 
+vi LottoRandom.java
+javac LottoRandom.java 
+vi LottoRandom.java
+javac LottoRandom.java 
+vi LottoRandom.java
+javac LottoRandom.java 
+vi LottoRandom.java
+vi LottoTest.java 
+vi LottoRandom.java
+javac LottoRandom.java 
+vi LottoRandom.java
+javac LottoRandom.java 
+vi LottoRandom.java
+javac LottoRandom.java 
+vi LottoRandom.java
+javac LottoRandom.java 
+vi LottoRandom.java 
+javac LottoRandom.java 
+vi LottoRandom.java 
+javac LottoRandom.java 
+java LottoRandom
+vi LottoRandom.java 
+javac LottoRandom.java 
+vi LottoRandom.java 
+javac LottoRandom.java 
+java LottoRandom
+vi LottoRandom.java 
+javac LottoRandom.java 
+java LottoRandom
+vi LottoRandom.java 
+javac LottoRandom.java 
+java LottoRandom
+vi LottoRandom.java 
+javac LottoRandom.java 
+java LottoRandom.java 
+java LottoRandom
+vi LottoRandom.java 
+javac LottoRandom.java 
+java LottoRandom
+javac LottoRandom.java 
+java LottoRandom
+exit
+cd 
+cd PRAC_JAVA/
+ls
+cd Pratice/
+ls
+vi LottoTest.java 
 exit
