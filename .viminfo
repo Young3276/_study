@@ -33,18 +33,21 @@
 	"
 
 # File marks:
-'0  1  0  ~/.cache/pip/selfcheck.json
-'1  1  0  ~/.cache/pip/http/0/7/7/a/f/077afcfea6f89eb143f63d875ad875dac1b65967bf8dff6159f6c4e0
-'2  1  1  ~/PRAC_JAVA/Test.java
-'3  8  6  ~/PRAC_JAVA/Pratice/DoWhileTest.java
-'4  1  0  ~/PRAC_JAVA/Pratice/WhileMultiply.java
-'5  14  23  ~/PRAC_JAVA/Pratice/WhileMultiply.java
-'6  7  45  ~/PRAC_JAVA/Pratice/WhileMultiply.java
-'7  1  0  ~/PRAC_JAVA/Pratice/WhileSum.java
-'8  15  36  ~/PRAC_JAVA/Pratice/WhileSum.java
-'9  11  18  ~/PRAC_JAVA/Pratice/WhileTest.java
+'0  1  0  ~/.gitconfig
+'1  97  0  ~/.bash_history
+'2  1  0  ~/.cache/pip/selfcheck.json
+'3  1  0  ~/.cache/pip/http/0/7/7/a/f/077afcfea6f89eb143f63d875ad875dac1b65967bf8dff6159f6c4e0
+'4  1  1  ~/PRAC_JAVA/Test.java
+'5  8  6  ~/PRAC_JAVA/Pratice/DoWhileTest.java
+'6  1  0  ~/PRAC_JAVA/Pratice/WhileMultiply.java
+'7  14  23  ~/PRAC_JAVA/Pratice/WhileMultiply.java
+'8  7  45  ~/PRAC_JAVA/Pratice/WhileMultiply.java
+'9  1  0  ~/PRAC_JAVA/Pratice/WhileSum.java
 
 # Jumplist (newest first):
+-'  1  0  ~/.gitconfig
+-'  97  0  ~/.bash_history
+-'  1  0  ~/.bash_history
 -'  1  0  ~/.cache/pip/selfcheck.json
 -'  1  0  ~/.cache/pip/http/0/7/7/a/f/077afcfea6f89eb143f63d875ad875dac1b65967bf8dff6159f6c4e0
 -'  1  1  ~/PRAC_JAVA/Test.java
@@ -140,11 +143,14 @@
 -'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
 -'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
 -'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitconfig
+	"	1	0
+
+> ~/.bash_history
+	"	97	0
 
 > ~/.cache/pip/selfcheck.json
 	"	1	0
