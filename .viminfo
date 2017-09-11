@@ -8,11 +8,9 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:q!
 :wq
 :w
-:ㅈ
-:q
+:W
 
 # Search String History (newest to oldest):
 
@@ -23,318 +21,32 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-"1	LINE	0
-				case :
-"2	LINE	0
-				case :
-"3	LINE	0
-				case ':
-""-	CHAR	0
-	"
 
 # File marks:
-'0  1  0  ~/.gitconfig
-'1  97  0  ~/.bash_history
-'2  1  0  ~/.cache/pip/selfcheck.json
-'3  1  0  ~/.cache/pip/http/0/7/7/a/f/077afcfea6f89eb143f63d875ad875dac1b65967bf8dff6159f6c4e0
-'4  1  1  ~/PRAC_JAVA/Test.java
-'5  8  6  ~/PRAC_JAVA/Pratice/DoWhileTest.java
-'6  1  0  ~/PRAC_JAVA/Pratice/WhileMultiply.java
-'7  14  23  ~/PRAC_JAVA/Pratice/WhileMultiply.java
-'8  7  45  ~/PRAC_JAVA/Pratice/WhileMultiply.java
-'9  1  0  ~/PRAC_JAVA/Pratice/WhileSum.java
+'0  15  14  ~/PRAC_JAVA/Pratice/PointTest.java
 
 # Jumplist (newest first):
--'  1  0  ~/.gitconfig
--'  97  0  ~/.bash_history
--'  1  0  ~/.bash_history
--'  1  0  ~/.cache/pip/selfcheck.json
--'  1  0  ~/.cache/pip/http/0/7/7/a/f/077afcfea6f89eb143f63d875ad875dac1b65967bf8dff6159f6c4e0
--'  1  1  ~/PRAC_JAVA/Test.java
--'  8  6  ~/PRAC_JAVA/Pratice/DoWhileTest.java
--'  1  0  ~/PRAC_JAVA/Pratice/DoWhileTest.java
--'  1  0  ~/PRAC_JAVA/Pratice/WhileMultiply.java
--'  14  23  ~/PRAC_JAVA/Pratice/WhileMultiply.java
--'  7  45  ~/PRAC_JAVA/Pratice/WhileMultiply.java
--'  1  0  ~/PRAC_JAVA/Pratice/WhileSum.java
--'  15  36  ~/PRAC_JAVA/Pratice/WhileSum.java
--'  11  18  ~/PRAC_JAVA/Pratice/WhileTest.java
--'  1  0  ~/PRAC_JAVA/Pratice/WhileTest.java
--'  13  2  ~/PRAC_JAVA/Pratice/WhileTest.java
--'  3  4  ~/PRAC_JAVA/Pratice/ForTest08.java
--'  1  0  ~/PRAC_JAVA/Pratice/ForTest08.java
--'  16  1  ~/PRAC_JAVA/Pratice/ThreeMultiply.java
--'  1  0  ~/PRAC_JAVA/Pratice/ThreeMultiply.java
--'  14  44  ~/PRAC_JAVA/Pratice/ThreeMultiply.java
--'  23  8  ~/PRAC_JAVA/Pratice/ForTest07.java
--'  1  0  ~/PRAC_JAVA/Pratice/ForTest07.java
--'  19  0  ~/PRAC_JAVA/Pratice/ForTest07.java
--'  12  7  ~/PRAC_JAVA/Pratice/ForTest07.java
--'  17  56  ~/PRAC_JAVA/Pratice/ForTest07.java
--'  1  0  ~/PRAC_JAVA/Pratice/ForTest01.java
--'  13  40  ~/PRAC_JAVA/Pratice/MoumTest02.java
--'  1  0  ~/PRAC_JAVA/Pratice/MoumTest02.java
--'  16  40  ~/PRAC_JAVA/Pratice/MoumTest02.java
--'  5  53  ~/PRAC_JAVA/Pratice/MoumTest02.java
--'  1  0  ~/PRAC_JAVA/Pratice/MoumTest.java
--'  11  9  ~/PRAC_JAVA/Pratice/MoumTest02.java
--'  1  0  ~/PRAC_JAVA/Pratice/MoumTest.
--'  7  20  ~/PRAC_JAVA/Pratice/MoumTest02.java
--'  15  62  ~/PRAC_JAVA/Pratice/MoumTest.java
--'  20  2  ~/PRAC_JAVA/Pratice/MoumTest.java
--'  20  0  ~/PRAC_JAVA/Pratice/ScoreTest.java
--'  4  0  ~/PRAC_JAVA/Pratice/ScoreTest.java
--'  1  0  ~/PRAC_JAVA/Pratice/ScoreTest.java
--'  13  0  ~/PRAC_JAVA/Pratice/ScoreTest.java
--'  9  9  ~/PRAC_JAVA/Pratice/ScoreTest.java
--'  12  30  ~/PRAC_JAVA/Pratice/ScoreTest.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  20  0  ~/PRAC_JAVA/Pratice/ScoreTest.java
--'  4  0  ~/PRAC_JAVA/Pratice/ScoreTest.java
--'  1  0  ~/PRAC_JAVA/Pratice/ScoreTest.java
--'  13  0  ~/PRAC_JAVA/Pratice/ScoreTest.java
--'  9  9  ~/PRAC_JAVA/Pratice/ScoreTest.java
--'  12  30  ~/PRAC_JAVA/Pratice/ScoreTest.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  1  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
--'  31  0  ~/PRAC_JAVA/Pratice/LottoRandom.java
+-'  15  14  ~/PRAC_JAVA/Pratice/PointTest.java
+-'  1  0  ~/PRAC_JAVA/Pratice/PointTest.java
 
 # History of marks within files (newest to oldest):
 
-> ~/.gitconfig
-	"	1	0
-
-> ~/.bash_history
-	"	97	0
-
-> ~/.cache/pip/selfcheck.json
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	0
-
-> ~/.cache/pip/http/0/7/7/a/f/077afcfea6f89eb143f63d875ad875dac1b65967bf8dff6159f6c4e0
-	"	1	0
-
-> ~/PRAC_JAVA/Test.java
-	"	1	1
-
-> ~/PRAC_JAVA/Pratice/DoWhileTest.java
-	"	8	6
-	^	8	7
-	.	8	6
-	+	11	0
-	+	10	1
-	+	9	14
-	+	8	6
-
-> ~/PRAC_JAVA/Pratice/WhileMultiply.java
-	"	1	0
-	^	14	24
-	.	14	23
-	+	16	0
-	+	10	14
-	+	7	17
-	+	11	2
-	+	13	2
-	+	12	6
-	+	14	35
-	+	7	46
-	+	14	23
-
-> ~/PRAC_JAVA/Pratice/WhileSum.java
-	"	1	0
-	^	15	37
-	.	15	36
-	+	18	0
-	+	17	1
-	+	16	1
-	+	7	37
-	+	11	2
-	+	5	8
-	+	11	8
-	+	10	5
-	+	11	8
-	+	5	10
-	+	6	11
-	+	14	2
-	+	13	6
-	+	12	9
-	+	15	36
-
-> ~/PRAC_JAVA/Pratice/WhileTest.java
-	"	11	18
-	^	11	19
-	.	11	18
-	+	15	0
-	+	14	1
-	+	7	49
-	+	7	50
-	+	10	7
-	+	5	12
-	+	13	2
-	+	11	39
-	+	12	6
-	+	11	18
-
-> ~/PRAC_JAVA/Pratice/ForTest08.java
-	"	3	4
-	^	3	6
-	.	3	5
-	+	3	5
-
-> ~/PRAC_JAVA/Pratice/ThreeMultiply.java
-	"	16	1
-	^	14	45
-	.	14	44
-	+	17	0
-	+	16	1
-	+	11	6
-	+	10	38
-	+	15	2
-	+	13	10
-	+	8	2
-	+	9	2
-	+	14	44
-
-> ~/PRAC_JAVA/Pratice/ForTest07.java
-	"	23	8
-	^	23	9
-	.	23	8
-	+	25	0
-	+	21	1
-	+	15	10
-	+	8	53
-	+	13	3
-	+	11	2
-	+	17	56
-	+	12	7
-	+	9	13
-	+	10	0
-	+	11	0
-	+	12	0
+> ~/PRAC_JAVA/Pratice/PointTest.java
+	"	15	14
+	^	15	15
+	.	15	15
 	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	17	0
-	+	21	2
-	+	18	7
-	+	8	12
-	+	18	31
-	+	5	58
-	+	2	27
-	+	18	32
-	+	21	0
-	+	20	9
-	+	23	8
-
-> ~/PRAC_JAVA/Pratice/ForTest01.java
-	"	1	0
-	^	1	0
-
-> ~/PRAC_JAVA/Pratice/MoumTest02.java
-	"	13	40
-	^	13	41
-	.	13	40
-	+	18	0
-	+	17	1
+	+	9	1
+	+	8	9
+	+	7	26
+	+	8	8
 	+	7	27
-	+	5	58
-	+	2	27
-	+	12	2
-	+	11	9
-	+	5	53
-	+	7	53
-	+	13	55
-	+	16	40
-	+	13	40
-
-> ~/PRAC_JAVA/Pratice/MoumTest.java
-	"	1	0
-	^	15	63
-	.	15	62
-	+	22	0
-	+	21	1
-	+	6	0
-	+	5	58
-	+	7	34
-	+	2	27
-	+	17	2
-	+	17	8
-	+	10	12
-	+	15	66
-	+	17	8
-	+	14	11
-	+	17	11
-	+	18	67
-	+	19	9
-	+	18	62
-	+	15	62
-
-> ~/PRAC_JAVA/Pratice/MoumTest.
-	"	1	0
-
-> ~/PRAC_JAVA/Pratice/ScoreTest.java
-	"	20	0
-	^	9	10
-	.	9	10
-	+	20	0
-	+	19	1
-	+	12	30
-	+	9	14
-	+	10	41
-	+	11	32
-	+	12	57
-	+	18	66
-	+	13	28
-	+	11	28
-	+	9	10
-
-> ~/PRAC_JAVA/Pratice/LottoRandom.java
-	"	31	0
+	+	10	30
+	+	12	1
+	+	11	10
+	+	24	0
+	+	23	1
+	+	22	10
+	+	21	10
+	+	22	14
+	+	15	15
